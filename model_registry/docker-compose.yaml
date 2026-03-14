@@ -1,0 +1,10 @@
+services:
+  registry:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - REGISTRY_DB=/app/data/registry.db
+      - REGISTRY_STORAGE=/app/data/models_storage
