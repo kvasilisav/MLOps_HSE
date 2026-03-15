@@ -1,0 +1,87 @@
+services:
+  part1:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+    command: uvicorn part1_basic.app:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+
+  part2:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+    command: uvicorn part2_onnx.app:app --host 0.0.0.0 --port 8001
+    ports:
+      - "8001:8001"
+
+  part3:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+    command: uvicorn part3_batching.app:app --host 0.0.0.0 --port 8002
+    ports:
+      - "8002:8002"
+
+  export:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+    command: python export_onnx.py
+
+  benchmark1:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+      - BENCHMARK_BASE=http://part1:8000
+    command: python part1_basic/benchmark.py
+
+  benchmark2:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+      - BENCHMARK_BASE=http://part2:8001
+    command: python part2_onnx/benchmark.py
+
+  benchmark3:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+      - BENCHMARK_BASE=http://part3:8002
+    command: python part3_batching/benchmark.py
+
+  shell:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    ports:
+      - "8000:8000"
+      - "8001:8001"
+      - "8002:8002"

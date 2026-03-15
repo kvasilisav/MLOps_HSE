@@ -1,0 +1,10 @@
+# torch installed separately in Dockerfile (CPU-only)
+transformers
+sentence-transformers
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+onnxruntime
+optimum[onnxruntime]
+httpx

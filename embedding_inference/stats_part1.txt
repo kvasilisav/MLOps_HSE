@@ -1,0 +1,443 @@
+[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.00%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.01%     1.003GiB / 15.62GiB
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.00%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.01%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.00%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.01%     1.003GiB / 15.62GiB
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.00%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.01%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.44%     1.003GiB / 15.62GiB
+youthful_hamilton             0.16%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.44%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.16%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.44%     1.003GiB / 15.62GiB
+youthful_hamilton             0.16%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.44%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.16%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.31%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.31%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.31%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.31%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB
+youthful_hamilton             0.22%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.22%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB
+youthful_hamilton             0.22%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.22%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB
+--                            0.00%     0B / 0B
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov       0.51%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.20%     43.4MiB / 15.62GiB [K
+--                            0.00%     0B / 0B [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       0.15%     323.8MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.17%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   0.00%     10.89MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       0.15%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.17%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   0.00%     10.89MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       0.15%     323.8MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.17%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   0.00%     10.89MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       0.15%     323.8MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.17%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   0.00%     10.89MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       132.18%   325.7MiB / 15.62GiB
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   25.77%    22.49MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       132.18%   325.7MiB / 15.62GiB [K
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   25.77%    22.49MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       132.18%   325.7MiB / 15.62GiB
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   25.77%    22.49MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       132.18%   325.7MiB / 15.62GiB [K
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   25.77%    22.49MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       169.81%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.27%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   8.17%     22.51MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       169.81%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.27%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   8.17%     22.51MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       169.81%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.27%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   8.17%     22.51MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       169.81%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.27%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   8.17%     22.51MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       169.12%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.45%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.28%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.30%     22.53MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       169.12%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.45%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.28%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.30%     22.53MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       169.12%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.45%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.28%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.30%     22.53MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       169.12%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.45%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.28%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.30%     22.53MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       170.03%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.46%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.26%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.90%     22.56MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       170.03%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.46%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.26%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.90%     22.56MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       170.03%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.46%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.26%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.90%     22.56MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       170.03%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.46%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.26%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.90%     22.56MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       170.79%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       170.79%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       170.79%   325.5MiB / 15.62GiB
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       170.79%   325.5MiB / 15.62GiB [K
+rubert_inference_ershov                           0.41%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       172.37%   325.8MiB / 15.62GiB
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.21%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.69%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       172.37%   325.8MiB / 15.62GiB [K
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.21%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.69%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       172.37%   325.8MiB / 15.62GiB
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.21%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.69%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       172.37%   325.8MiB / 15.62GiB [K
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.21%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.69%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       172.09%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.30%     43.41MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.98%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       172.09%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.30%     43.41MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.98%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       172.09%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.30%     43.41MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.98%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       172.09%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.30%     43.41MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.98%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       171.65%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.28%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.78%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       171.65%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.28%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.78%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       171.65%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.28%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.78%     22.58MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       171.65%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.28%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.78%     22.58MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       170.58%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.6MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       170.58%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.6MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       170.58%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.6MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       170.58%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.42%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.19%     43.4MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.87%     22.6MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       171.96%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.25%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.84%     22.6MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       171.96%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.25%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.84%     22.6MiB / 15.62GiB [K
+ [K
+[J[HNAME                                              CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1                       171.96%   325.6MiB / 15.62GiB
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB
+youthful_hamilton                                 0.25%     43.39MiB / 15.62GiB
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.84%     22.6MiB / 15.62GiB
+[HNAME                                              CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1                       171.96%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov                           0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton                                 0.25%     43.39MiB / 15.62GiB [K
+embedding_inference-benchmark1-run-dfb7a41ecb69   6.84%     22.6MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   171.60%   325.6MiB / 15.62GiB
+rubert_inference_ershov       0.43%     1.003GiB / 15.62GiB
+youthful_hamilton             0.27%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   171.60%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.27%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   171.60%   325.6MiB / 15.62GiB
+rubert_inference_ershov       0.43%     1.003GiB / 15.62GiB
+youthful_hamilton             0.27%     43.4MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   171.60%   325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.43%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.27%     43.4MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.29%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.47%     1.003GiB / 15.62GiB
+youthful_hamilton             0.41%     43.41MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.29%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.47%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.41%     43.41MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.29%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.47%     1.003GiB / 15.62GiB
+youthful_hamilton             0.41%     43.41MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.29%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.47%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.41%     43.41MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.52%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.39MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.54%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.41MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.54%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.41MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.54%     1.003GiB / 15.62GiB
+youthful_hamilton             0.21%     43.41MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.16%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.54%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.21%     43.41MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.15%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB
+youthful_hamilton             0.19%     43.39MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.15%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.19%     43.39MiB / 15.62GiB [K
+ [K
+[J[HNAME                          CPU %     MEM USAGE / LIMIT
+embedding_inference-part1-1   0.15%     325.6MiB / 15.62GiB
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB
+youthful_hamilton             0.19%     43.39MiB / 15.62GiB
+[HNAME                          CPU %     MEM USAGE / LIMIT [K
+embedding_inference-part1-1   0.15%     325.6MiB / 15.62GiB [K
+rubert_inference_ershov       0.53%     1.003GiB / 15.62GiB [K
+youthful_hamilton             0.19%     43.39MiB / 15.62GiB [K
+ [K
+[J
